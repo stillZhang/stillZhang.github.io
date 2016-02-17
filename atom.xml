@@ -4,7 +4,7 @@
   <title><![CDATA[天道酬勤，功不唐捐。]]></title>
   <link href="http://stillzhang.com/atom.xml" rel="self"/>
   <link href="http://stillzhang.com/"/>
-  <updated>2016-02-17T18:00:01+08:00</updated>
+  <updated>2016-02-17T18:11:19+08:00</updated>
   <id>http://stillzhang.com/</id>
   <author>
     <name><![CDATA[张进]]></name>
@@ -12,5 +12,14 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Hello World!]]></title>
+    <link href="http://stillzhang.com/blog/hello-world/"/>
+    <updated>2016-02-17T18:10:43+08:00</updated>
+    <id>http://stillzhang.com/blog/hello-world</id>
+    <content type="html"><![CDATA[<p> _</p>
+]]></content>
+  </entry>
   
 </feed>
