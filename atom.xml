@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Still water runs deep!]]></title>
+  <title><![CDATA[天道酬勤，功不唐捐。]]></title>
   <link href="http://stillzhang.github.io/atom.xml" rel="self"/>
   <link href="http://stillzhang.github.io/"/>
-  <updated>2016-02-17T17:16:51+08:00</updated>
+  <updated>2016-02-17T17:18:25+08:00</updated>
   <id>http://stillzhang.github.io/</id>
   <author>
     <name><![CDATA[stillZhang]]></name>
