@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[天道酬勤，功不唐捐。]]></title>
-  <link href="http://stillzhang.github.io/atom.xml" rel="self"/>
-  <link href="http://stillzhang.github.io/"/>
-  <updated>2016-02-17T17:46:11+08:00</updated>
-  <id>http://stillzhang.github.io/</id>
+  <link href="http://stillzhang.com/atom.xml" rel="self"/>
+  <link href="http://stillzhang.com/"/>
+  <updated>2016-02-17T17:55:02+08:00</updated>
+  <id>http://stillzhang.com/</id>
   <author>
     <name><![CDATA[张进]]></name>
     
