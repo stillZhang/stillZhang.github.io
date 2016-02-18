@@ -4,7 +4,7 @@
   <title><![CDATA[]]></title>
   <link href="http://stillzhang.com/atom.xml" rel="self"/>
   <link href="http://stillzhang.com/"/>
-  <updated>2016-02-18T20:32:28+08:00</updated>
+  <updated>2016-02-18T20:34:49+08:00</updated>
   <id>http://stillzhang.com/</id>
   <author>
     <name><![CDATA[张进]]></name>
@@ -12,6 +12,60 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Hello World!]]></title>
+    <link href="http://stillzhang.com/blog/hello-world%E5%89%AF%E6%9C%AC%202/"/>
+    <updated>2016-02-17T18:10:43+08:00</updated>
+    <id>http://stillzhang.com/blog/hello-world副本 2</id>
+    <content type="html"><![CDATA[<p>沉睡多年</p>
+
+<p>大梦初醒</p>
+
+<p>物是人非</p>
+
+<p>时也</p>
+
+<p>命也</p>
+
+<p>无人得知</p>
+
+<p>就这样</p>
+
+<p>随风吧</p>
+
+<p>随它去吧</p>
+
+<p>既往不念_</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Hello World!]]></title>
+    <link href="http://stillzhang.com/blog/hello-world%E5%89%AF%E6%9C%AC/"/>
+    <updated>2016-02-17T18:10:43+08:00</updated>
+    <id>http://stillzhang.com/blog/hello-world副本</id>
+    <content type="html"><![CDATA[<p>沉睡多年</p>
+
+<p>大梦初醒</p>
+
+<p>物是人非</p>
+
+<p>时也</p>
+
+<p>命也</p>
+
+<p>无人得知</p>
+
+<p>就这样</p>
+
+<p>随风吧</p>
+
+<p>随它去吧</p>
+
+<p>既往不念_</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Hello World!]]></title>
