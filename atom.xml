@@ -4,7 +4,7 @@
   <title><![CDATA[]]></title>
   <link href="http://stillzhang.com/atom.xml" rel="self"/>
   <link href="http://stillzhang.com/"/>
-  <updated>2016-02-18T20:34:49+08:00</updated>
+  <updated>2016-02-18T20:40:54+08:00</updated>
   <id>http://stillzhang.com/</id>
   <author>
     <name><![CDATA[张进]]></name>
@@ -78,9 +78,9 @@
 
 <p>物是人非</p>
 
-<p>时也</p>
-
-<p>命也</p>
+<p>时也
+_
+命也</p>
 
 <p>无人得知</p>
 
@@ -90,7 +90,7 @@
 
 <p>随它去吧</p>
 
-<p>既往不念_</p>
+<p>既往不念</p>
 ]]></content>
   </entry>
   
