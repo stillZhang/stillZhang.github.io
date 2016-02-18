@@ -1,14 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://stillzhang.com/blog/hello-world%25E5%2589%25AF%25E6%259C%25AC%25202/</loc>
-<lastmod>2016-02-17T18:10:43+08:00</lastmod>
-</url>
-<url>
-<loc>http://stillzhang.com/blog/hello-world%25E5%2589%25AF%25E6%259C%25AC/</loc>
-<lastmod>2016-02-17T18:10:43+08:00</lastmod>
-</url>
-<url>
 <loc>http://stillzhang.com/blog/hello-world/</loc>
 <lastmod>2016-02-17T18:10:43+08:00</lastmod>
 </url>
