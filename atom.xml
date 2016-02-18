@@ -4,7 +4,7 @@
   <title><![CDATA[]]></title>
   <link href="http://stillzhang.com/atom.xml" rel="self"/>
   <link href="http://stillzhang.com/"/>
-  <updated>2016-02-18T20:40:54+08:00</updated>
+  <updated>2016-02-18T20:44:53+08:00</updated>
   <id>http://stillzhang.com/</id>
   <author>
     <name><![CDATA[张进]]></name>
@@ -72,15 +72,17 @@
     <link href="http://stillzhang.com/blog/hello-world/"/>
     <updated>2016-02-17T18:10:43+08:00</updated>
     <id>http://stillzhang.com/blog/hello-world</id>
-    <content type="html"><![CDATA[<p>沉睡多年</p>
+    <content type="html"><![CDATA[<p>睡多年</p>
 
 <p>大梦初醒</p>
 
 <p>物是人非</p>
 
-<p>时也
-_
-命也</p>
+<p>时也</p>
+
+<p>_</p>
+
+<p>命也</p>
 
 <p>无人得知</p>
 
