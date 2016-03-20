@@ -4,7 +4,7 @@
   <title><![CDATA[]]></title>
   <link href="http://stillzhang.com/atom.xml" rel="self"/>
   <link href="http://stillzhang.com/"/>
-  <updated>2016-03-20T16:43:48+08:00</updated>
+  <updated>2016-03-20T16:45:00+08:00</updated>
   <id>http://stillzhang.com/</id>
   <author>
     <name><![CDATA[张进]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[You do the best，God do the rest]]></title>
+    <link href="http://stillzhang.com/blog/you-do-the-best,god-do-the-rest/"/>
+    <updated>2016-03-20T16:44:50+08:00</updated>
+    <id>http://stillzhang.com/blog/you-do-the-best,god-do-the-rest</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[You do the best-God do the rest]]></title>
