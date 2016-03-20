@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://stillzhang.com/blog/you-do-the-best/</loc>
+<lastmod>2016-03-20T16:09:35+08:00</lastmod>
+</url>
+<url>
 <loc>http://stillzhang.com/blog/archives/</loc>
 </url>
 <url>
@@ -8,6 +12,9 @@
 </url>
 <url>
 <loc>http://stillzhang.com/blog/categories/</loc>
+</url>
+<url>
+<loc>http://stillzhang.com/blog/categories/xing-sheng-yu-yan/</loc>
 </url>
 <url>
 <loc>http://stillzhang.com/about/index.html</loc>
