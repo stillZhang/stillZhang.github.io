@@ -4,7 +4,7 @@
   <title><![CDATA[]]></title>
   <link href="http://stillzhang.com/atom.xml" rel="self"/>
   <link href="http://stillzhang.com/"/>
-  <updated>2016-03-20T17:05:40+08:00</updated>
+  <updated>2016-03-20T17:07:27+08:00</updated>
   <id>http://stillzhang.com/</id>
   <author>
     <name><![CDATA[张进]]></name>
@@ -20,19 +20,19 @@
     <id>http://stillzhang.com/blog/you-do-the-best,god-do-the-rest!</id>
     <content type="html"><![CDATA[<ul>
 <li>list element with functor item
-{:toc}
+{:toc}</li>
+</ul>
+
 
 <h1>目录</h1>
 
 <h2>1.人一定要有梦想的</h2>
 
-星爷一贯以小人物出名
+<p>星爷一贯以小人物出名</p>
 
 <h2>2.我的2016</h2>
 
-<h2>3.You do the best,God do the rest!</h2></li>
-</ul>
-
+<h2>3.You do the best,God do the rest!</h2>
 ]]></content>
   </entry>
   
